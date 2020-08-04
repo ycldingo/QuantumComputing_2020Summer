@@ -23,6 +23,7 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM QUan
   - Bloch sphere
   - Dirac notation & Quantum states
 - Superconducting qubits
+  - Duffing oscillators
   - Architecture
   - Coupling map and the restrictions
   - Demo: Transpiler
