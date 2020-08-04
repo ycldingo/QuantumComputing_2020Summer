@@ -15,8 +15,20 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM QUan
 
 # Outline
 
-### Day 1
+## Day 1
 
-### Day 2
+## Day 2
+- Takeaways from previous lectures
+- Superconducting qubits
+ - Architecture
+ - Coupling map and the restrictions
+ - Demo: Transpiler
+- Quantum errors
+ - Demo: Decoherence time of qubits
+ - Demo: Noise model
+- Error correction
+ - Repetition code
+ - Surface code
 
-### Day 3
+
+## Day 3
