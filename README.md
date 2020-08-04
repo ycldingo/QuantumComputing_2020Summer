@@ -20,15 +20,15 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM QUan
 ## Day 2
 - Takeaways from previous lectures
 - Superconducting qubits
- - Architecture
- - Coupling map and the restrictions
- - Demo: Transpiler
+  - Architecture
+  - Coupling map and the restrictions
+  - Demo: Transpiler
 - Quantum errors
- - Demo: Decoherence time of qubits
- - Demo: Noise model
+  - Demo: Decoherence time of qubits
+  - Demo: Noise model
 - Error correction
- - Repetition code
- - Surface code
+  - Repetition code
+  - Surface code
 
 
 ## Day 3
