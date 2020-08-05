@@ -34,6 +34,7 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM Quan
 - Error correction
   - Repetition code
   - Surface code
+  - Demo: Repetition code
 
 
 ## Day 3
