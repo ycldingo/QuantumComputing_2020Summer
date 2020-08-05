@@ -11,14 +11,49 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM Quan
 - macOS
 - Windows
 - Linux
+We recommend you using Anaconda. The simple procedures are:
+1. Open Anaconda pump, and run
+```javascript
+create -n IBMQ python=3 jupyter
+```
+This helps you create an environment that will be used to install the `qiskit` package.
+2. Next, go to the new environment
+```javascript
+conda activate IBMQ
+```
+3. Now we need to install the required packages with
+```javascript
+pip install qiskit matplotlib
+```
+4. Done!
+The detail is [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
+
+After installation, open jupyter notebook by
+```javascript
+jupyter notebook
+```
 
 
 # Outline
 
 ## Day 1
+Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
+- Wrapup for morning lecture
+- Installation
+- Qiskit elements
+  - Terra 
+  - Aer
+  - Ignis
+  - Aqua
+- IBM Quantum Experience
+  - account
+  - api token
+- Qubits, operations, measurements
+  - quantum gates
+  - programming
 
 ## Day 2
-Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos.
+Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos
 - Takeaways from previous lectures
   - From bits to qubits
   - Bloch sphere
@@ -27,15 +62,15 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Duffing oscillators
   - Architecture
   - Coupling map and the restrictions
-  - Demo: Transpiler
+  - Demo: [Transpiler](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/transpiler.ipynb)
 - Quantum errors
   - Types of error
-  - Demo: Decoherence time of qubits
-  - Demo: Noise model (noisy simulator)
+  - Demo: [Decoherence time of qubits](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/coherence_time.ipynb)
+  - Demo: [Noise model](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/noise_model.ipynb) (noisy simulator)
 - Error correction
   - Repetition code
   - Surface code
-  - Demo: Repetition code
+  - Demo: [Repetition code](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/repetition_code.ipynb)
 
 
 ## Day 3
