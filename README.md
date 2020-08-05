@@ -17,6 +17,7 @@ We recommend you using Anaconda. The simple procedures are:
 create -n IBMQ python=3 jupyter
 ```
 This helps you create an environment that will be used to install the `qiskit` package.
+
 2. Next, go to the new environment
 ```javascript
 conda activate IBMQ
@@ -26,8 +27,8 @@ conda activate IBMQ
 pip install qiskit matplotlib
 ```
 4. Done!
-The detail is [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
 
+The detail is [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
 After installation, open jupyter notebook by
 ```javascript
 jupyter notebook
