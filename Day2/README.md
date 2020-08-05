@@ -26,12 +26,13 @@ provider = IBMQ.get_provider(project='main')
 ## Plot quantum circuits
 
 - `matplotlib`:
+
 For those who want to plot circuits with `output='mpl'`, remember to install package `matplotlib`. 
-  1. Open Anaconda pump and run
+1. Open Anaconda pump and run
   ```javascript
   conda activate IBMQ
   ```
-  to go to the right environment. `IBMQ` is the customized name of your environment.
+to go to the right environment. `IBMQ` is the customized name of your environment.
   
   2. Use `pip install`
   ```javascript
