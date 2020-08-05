@@ -50,7 +50,7 @@ Note that some functions may nor support this output. We suggest you to change t
 ```python
 backend = Aer.get_backend('device_name')
 ```
-where `device_name` is the machine's name of your favourite real quantum computer.
+   where `device_name` is the machine's name of your favourite real quantum computer.
 
 - Maintenance: 
 IBM may do some regular updates and mainenance on their devices. Make sure you are doing the experiment on the one that is available now.
