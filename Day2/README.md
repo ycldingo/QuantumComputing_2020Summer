@@ -28,18 +28,18 @@ provider = IBMQ.get_provider(project='main')
 - `matplotlib`:
 
   For those who want to plot circuits with `output='mpl'`, remember to install package `matplotlib`. 
-  1. Open Anaconda pump and run
-    ```javascript
-    conda activate IBMQ
-    ```
+  1. Open Anaconda prompt and run
+  ```javascript
+  conda activate IBMQ
+  ```
   to go to the right environment. `IBMQ` is the customized name of your environment.
   
-    2. Install package
-    ```javascript
-    pip install matplotlib
-    ```
+  2. Install package
+  ```javascript
+  pip install matplotlib
+  ```
   
-    3. Done.
+  3. Done.
 
 The default output is `output=text`. 
 Note that some functions may nor support this output. We suggest you to change to the default setting if there is any error.
