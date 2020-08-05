@@ -8,7 +8,7 @@ Before running the code, please make sure that you have already install `qiskit`
 
 Please create an IBM Quantum Experience account. 
 You can find your own API Token under 'My Account / Qiskit in local environment'.
-Copy it and paste at
+Copy it and paste at `paste your api token here` (inside the bracket):
 ```python
 apitoken = 'paste your api token here'
 ```
