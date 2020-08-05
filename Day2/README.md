@@ -32,7 +32,7 @@ provider = IBMQ.get_provider(project='main')
   ```javascript
   conda activate IBMQ
   ```
-  to go to the right environment. `IBMQ` is the customized name of your environment.
+    to go to the right environment. `IBMQ` is the customized name of your environment.
   
   2. Install package
   ```javascript
