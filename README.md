@@ -47,11 +47,11 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Ignis
   - Aqua
 - IBM Quantum Experience
-  - account
-  - api token
+  - Account
+  - Api token
 - Qubits, operations, measurements
-  - quantum gates
-  - programming
+  - Quantum gates
+  - Programming
 
 ## Day 2
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos
