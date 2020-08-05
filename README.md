@@ -5,7 +5,7 @@ The summer school consists of theory lectures (in the mornings) and demonstratio
 
 
 # Qiskit
-Qiskit (Quantum Information Software Kit) is an open source released by IBM QUantum Team based on Python, and can be used in programming quantum computing experiments and computations. We will teach the participants from the installation to conducting your first quantum program.
+Qiskit (Quantum Information Software Kit) is an open source released by IBM Quantum Team based on Python, and can be used in programming quantum computing experiments and computations. We will teach the participants from the installation to conducting your first quantum program.
 
 ## Installation
 - macOS
