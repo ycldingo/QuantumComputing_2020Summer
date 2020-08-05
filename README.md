@@ -53,7 +53,7 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Api token
 - Qubits, operations, measurements
   - Quantum gates
-  - Programming
+  - Programming examples
 
 ## Day 2
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos
