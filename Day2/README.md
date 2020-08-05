@@ -20,13 +20,12 @@ For those free account, you need to replace the last line with
 provider = IBMQ.get_provider(project='main')
 ```
 
-- Please run the notebook from the very first cell. Otherwise, you may encounter some warnings or errors due to undefined parameters or un-import packages.
+- Please **run the notebook from the very first cell**. Otherwise, you may encounter some warnings or errors due to undefined parameters or un-import packages.
 
 
 ## Plot quantum circuits
 
 - `matplotlib`:
-
 For those who want to plot circuits with `output='mpl'`, remember to install package `matplotlib`. 
   1. Open Anaconda pump and run
   ```javascript
