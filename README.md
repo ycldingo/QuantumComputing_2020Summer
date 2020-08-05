@@ -41,6 +41,7 @@ jupyter notebook
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
 - Wrapup for morning lecture
 - Installation
+  - Check the version by [this](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/check_version.ipynb), and see if you have successfully install the packages.
 - Qiskit elements
   - Terra 
   - Aer
