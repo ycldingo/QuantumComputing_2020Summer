@@ -18,6 +18,7 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM Quan
 ## Day 1
 
 ## Day 2
+Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos.
 - Takeaways from previous lectures
   - From bits to qubits
   - Bloch sphere
