@@ -45,3 +45,13 @@ The default output is `output=text`.
 Note that some functions may nor support this output. We suggest you to change to the default setting if there is any error.
   
 
+## Do experiment on a real device
+- Specify your backend, please do
+```python
+backend = Aer.get_backend('device_name')
+```
+where `device_name` is the machine's name of your favourite real quantum computer.
+
+- Maintenance: 
+IBM may do some regular updates and mainenance on their devices. Make sure you are doing the experiment on the one that is available now.
+To view the latest information of your backends, please visit [IBM Quantum Experience](https://quantum-computing.ibm.com/).
