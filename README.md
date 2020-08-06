@@ -78,6 +78,7 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Repetition code
   - Surface code
   - Demo: [Repetition code](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/repetition_code.ipynb)
+  (Some content is refered to [Qiskit toturial](https://github.com/Qiskit/qiskit-tutorials/blob/master/tutorials/noise/6_repetition_code.ipynb))
 
 
 ## Day 3
@@ -94,3 +95,12 @@ Afternoon: lectures & demos
   - Demo: [Expectation value, optimization](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE%20example.ipynb)
   - Demo: [Find eigenvalues of a given matrix](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE_0806.ipynb)
 - [Hybrid quantum-classical neural networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
+  - Demo: [Quantum machine learning](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
+  (This example is from the official Qiskit textbook)
+
+
+# Reference
+- [Qiskit textbook](https://qiskit.org/textbook/preface.html)
+- [Qiskit documantation](https://qiskit.org/documentation/)
+- [Qiskit GitHub](https://github.com/Qiskit)
+  - [tutorial](https://github.com/Qiskit/qiskit-tutorials)
