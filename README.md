@@ -119,7 +119,7 @@ Afternoon: lectures & demos
   - Demo: [Find eigenvalues of a given matrix](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE_0806.ipynb)
 - [Hybrid quantum-classical neural networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
   - Demo: [Quantum machine learning](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
-  (This example is from the official Qiskit textbook)
+  (Follows official Qiskit textbook)
 
 
 # Reference & Further Studying
@@ -132,3 +132,4 @@ Afternoon: lectures & demos
     - [Noise](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/noise)
     - [Simulators](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/simulators)
 - [Qiskit Global Summer School 2020](https://qiskit.org/events/summer-school/)
+- [Materials from last year](https://github.com/m24639297/2019-summer-QC)
