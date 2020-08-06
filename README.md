@@ -64,6 +64,7 @@ Morning: lectures
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
 - Wrapup for morning lecture
   - Vedio from YouTube: [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
+  - Offical game: [Hello Quantum](https://helloquantum.mybluemix.net/)
 - Installation
   - Check the version by [this](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/check_version.ipynb), and see if you have successfully install the packages.
 - Qiskit elements
