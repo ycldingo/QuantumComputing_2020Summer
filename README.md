@@ -43,13 +43,14 @@ Morning: lectures
 
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
 - Wrapup for morning lecture
+  - [Vedio from YouTube](https://www.youtube.com/watch?v=JhHMJCUmq28)
 - Installation
   - Check the version by [this](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/check_version.ipynb), and see if you have successfully install the packages.
 - Qiskit elements
-  - Terra 
-  - Aer
-  - Ignis
-  - Aqua
+  - [Terra](https://github.com/Qiskit/qiskit-terra)
+  - [Aer](https://github.com/Qiskit/qiskit-aer)
+  - [Ignis](https://github.com/Qiskit/qiskit-ignis)
+  - [Aqua](https://github.com/Qiskit/qiskit-aqua)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
   - Account
   - Api token
@@ -100,14 +101,10 @@ Afternoon: lectures & demos
   (This example is from the official Qiskit textbook)
 
 
-# Qiskit Reference
+# Reference & Further Studying
 - [Qiskit textbook](https://qiskit.org/textbook/preface.html)
 - [Qiskit documantation](https://qiskit.org/documentation/)
 - [Qiskit GitHub](https://github.com/Qiskit)
-  - [Terra](https://github.com/Qiskit/qiskit-terra)
-  - [Aer](https://github.com/Qiskit/qiskit-aer)
-  - [Aqua](https://github.com/Qiskit/qiskit-aqua)
-  - [Ignis](https://github.com/Qiskit/qiskit-ignis)
   - [tutorial](https://github.com/Qiskit/qiskit-tutorials)
     - [Circuits](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/circuits)
     - [Advanced circuits](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/circuits_advanced)
