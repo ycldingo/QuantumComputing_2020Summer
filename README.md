@@ -38,13 +38,13 @@ jupyter notebook
 ## Demonstrations
 Before running the demos on your computer, please make sure:
 
-1. You have already install `qiskit` package. For details, please go back to the last part.
-2. You are running under the *right* environment with `qiskit` package. The step-by-step procedures:
+- You have already install `qiskit` package. For details, please go back to the last part.
+- You are running under the *right* environment with `qiskit` package. The step-by-step procedures:
   1. Open Anaconda prompt and type
   ```javascript
   conda activate ENV_NAME
   ```
-     `ENV_NAME` is the environment where you installed `qiskit. This command let you go to the *right* environment.
+  `ENV_NAME` is the environment where you installed `qiskit. This command let you go to the *right* environment.
      
   2. Open Jupyter Notebook. At the same prompt, do
   ```javascript
@@ -52,8 +52,8 @@ Before running the demos on your computer, please make sure:
   ```
   
   3. Enjoy!
-3. You have an [IBM Quantum Experience](https://quantum-computing.ibm.com/) account.
-4. If you have any other questions, please see the **README** file under the folder. Thank you.
+- You have an [IBM Quantum Experience](https://quantum-computing.ibm.com/) account.
+- If you have any other questions, please see the **README** file under the folder. Thank you.
 
 
 # Outline
