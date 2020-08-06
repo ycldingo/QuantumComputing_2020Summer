@@ -81,6 +81,7 @@ Morning: lectures
 - [Optimization in quantum domain](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Qiskit-optimization_short_course.pdf)
 - [Variational quantum eigensolver](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Variational_quantum_eigensolver_short_course.pdf)
 - [Quantum machine learning](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Intro_Q_Machine_Learning_summer_short_course_2020_08_06.pdf)
+
 Afternoon: lectures & demos
 - [Variational quantum eigensolver](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Intro_Day_3.pdf)
   - VQE 1234
