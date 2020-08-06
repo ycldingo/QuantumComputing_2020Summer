@@ -39,6 +39,8 @@ jupyter notebook
 # Outline
 
 ## Day 1
+Morning: lectures
+
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
 - Wrapup for morning lecture
 - Installation
@@ -56,6 +58,8 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Programming examples
 
 ## Day 2
+Morning: lectures
+
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos
 - Takeaways from previous lectures
   - From bits to qubits
