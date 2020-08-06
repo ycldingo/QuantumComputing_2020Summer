@@ -39,6 +39,8 @@ jupyter notebook
 # Outline
 
 ## Day 1
+Morning: lectures
+
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day1/Intro_Day_1.pdf) & demos
 - Wrapup for morning lecture
 - Installation
@@ -48,7 +50,7 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Aer
   - Ignis
   - Aqua
-- IBM Quantum Experience
+- [IBM Quantum Experience](https://quantum-computing.ibm.com/)
   - Account
   - Api token
 - Qubits, operations, measurements
@@ -56,6 +58,8 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Programming examples
 
 ## Day 2
+Morning: lectures
+
 Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/Real_QuantumMachine_upload.pdf) & demos
 - Takeaways from previous lectures
   - From bits to qubits
@@ -77,5 +81,16 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
 
 
 ## Day 3
+Morning: lectures
+- [Optimization in quantum domain](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Qiskit-optimization_short_course.pdf)
+- [Variational quantum eigensolver](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Variational_quantum_eigensolver_short_course.pdf)
+- [Quantum machine learning](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Intro_Q_Machine_Learning_summer_short_course_2020_08_06.pdf)
+
 Afternoon: lectures & demos
-- [Hybrid Quantum-Classical Neural Networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
+- [Variational quantum eigensolver](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Intro_Day_3.pdf)
+  - VQE 1234
+  - Without `VQE` package
+  - [Measurement & Expectation values](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/expectation.pdf)
+  - Demo: [Expectation value, optimization](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE%20example.ipynb)
+  - Demo: [Find eigenvalues of a given matrix](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE_0806.ipynb)
+- [Hybrid quantum-classical neural networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
