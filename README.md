@@ -78,9 +78,10 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
 
 ## Day 3
 Afternoon: lectures & demos
-- Variational quantum eigensolver
+- [Variational quantum eigensolver](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Intro_Day_3.pdf)
   - VQE 1234
   - Without `VQE` package
-  - Demo: [Find eigenvalues of a given matrix](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE%20example.ipynb)
-- [Measurement & Expectation values](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/expectation.pdf)
+  - [Measurement & Expectation values](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/expectation.pdf)
+  - Demo: [Expectation value, optimization](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE%20example.ipynb)
+  - Demo: [Find eigenvalues of a given matrix](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/VQE_0806.ipynb)
 - [Hybrid quantum-classical neural networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
