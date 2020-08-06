@@ -111,3 +111,4 @@ Afternoon: lectures & demos
     - [Advanced circuits](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/circuits_advanced)
     - [Noise](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/noise)
     - [Simulators](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/simulators)
+- [Qiskit Global Summer School 2020](https://qiskit.org/events/summer-school/)
