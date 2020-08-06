@@ -76,6 +76,7 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
   - Demo: [Noise model](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/noise_model.ipynb) (noisy simulator)
 - Error correction
   - Repetition code
+    - Implement example: [Nature **519**, 66–69(2015)](https://www.nature.com/articles/nature14270?draft=marketing)
   - Surface code
   - Demo: [Repetition code](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day2/repetition_code.ipynb)
   (Some content is refered to [Qiskit toturial](https://github.com/Qiskit/qiskit-tutorials/blob/master/tutorials/noise/6_repetition_code.ipynb))
@@ -99,8 +100,16 @@ Afternoon: lectures & demos
   (This example is from the official Qiskit textbook)
 
 
-# Reference
+# Qiskit Reference
 - [Qiskit textbook](https://qiskit.org/textbook/preface.html)
 - [Qiskit documantation](https://qiskit.org/documentation/)
 - [Qiskit GitHub](https://github.com/Qiskit)
+  - [Terra](https://github.com/Qiskit/qiskit-terra)
+  - [Aer](https://github.com/Qiskit/qiskit-aer)
+  - [Aqua](https://github.com/Qiskit/qiskit-aqua)
+  - [Ignis](https://github.com/Qiskit/qiskit-ignis)
   - [tutorial](https://github.com/Qiskit/qiskit-tutorials)
+    - [Circuits](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/circuits)
+    - [Advanced circuits](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/circuits_advanced)
+    - [Noise](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/noise)
+    - [Simulators](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials/simulators)
