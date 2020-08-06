@@ -30,7 +30,7 @@ pip install qiskit matplotlib
 4. Done!
 
 The detail is [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
-After installation, open jupyter notebook by
+After installation, open Jupyter Notebook by
 ```javascript
 jupyter notebook
 ```
