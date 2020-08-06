@@ -77,3 +77,5 @@ Afternoon: [lectures](https://github.com/ycldingo/QuantumComputing_2020Summer/bl
 
 
 ## Day 3
+Afternoon: lectures & demos
+- [Hybrid Quantum-Classical Neural Networks](https://github.com/ycldingo/QuantumComputing_2020Summer/blob/master/Day3/Hybrid%20quantum-classical%20Neural%20Networks%20with%20PyTorch%20and%20Qiskit.pdf)
