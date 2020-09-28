@@ -23,7 +23,7 @@ This helps you create an environment that will be used to install the `qiskit` p
 ```javascript
 conda activate IBMQ
 ```
-3. Now we need to install the required packages for circuit plot with
+3. Now we need to install the required packages `qiskt` and `matplotlib` with
 ```javascript
 pip install qiskit matplotlib
 ```
