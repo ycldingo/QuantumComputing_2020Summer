@@ -14,19 +14,19 @@ Qiskit (Quantum Information Software Kit) is an open source released by IBM Quan
 
 We recommend you using [Anaconda](https://www.anaconda.com/products/individual). The simple procedures are:
 1. Open Anaconda prompt, and run
-```python
-create -n IBMQ python=3 jupyter
-```
+   ```python
+   create -n IBMQ python=3 jupyter
+   ```
 This helps you create an environment that will be used to install the `qiskit` package.
 
 2. Next, go to the new environment
-```python
-conda activate IBMQ
-```
+   ```python
+   conda activate IBMQ
+   ```
 3. Now we need to install the required packages `qiskt` and `matplotlib` with
-```python
-pip install qiskit matplotlib
-```
+   ```python
+   pip install qiskit matplotlib
+   ```
 4. Done!
 
 The detail is [here](https://github.com/ycldingo/IBMQ/blob/master/README.md).
